@@ -1,0 +1,1 @@
+I already have Basic Python Knowledge so I'm leaving some things out.
