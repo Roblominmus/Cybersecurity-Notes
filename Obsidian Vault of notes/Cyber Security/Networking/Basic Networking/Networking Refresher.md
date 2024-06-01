@@ -73,7 +73,7 @@ This is a quick summary of networking.
 	When we **send** data it goes from Application layer to the Physical layer
 	When **troubleshooting** it's always best to start from physical to application layer.
 	
-	- **Application layer:** This layer is responsible for providing network services to applications, such as email, file transfer, and web browsing e.g. HTTP, SMTP. ( **LAYER 7** )
+	- **Application layer:** This layer8is responsible for providing network services to applications, such as email, file transfer, and web browsing e.g. HTTP, SMTP. ( **LAYER 7** )
 	- **Presentation layer:** This layer is responsible for formatting data so that it can be understood by the receiving application e.g. JPEG, MP4. ( **LAYER 6** )
 	- **Session layer:** This layer is responsible for establishing and managing communication sessions between applications. ( **LAYER 5** )
 	- **Transport layer:** This layer is responsible for providing reliable end-to-end communication between applications e.g. TCP and UDP. ( **LAYER 4** )
