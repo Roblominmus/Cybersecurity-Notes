@@ -31,6 +31,8 @@ The other notes are from The HackTheBox Website.
 			sample.com - This scans a website for hosts
 			see [[Scanning Options]] if confused.
 
+![[NMAP COMMAND.png]]
+
 **LAYERS OF IP SCANNING**
 	In nmap thee are different layers of scanning
 	 Layer 1 - "nmap 10.0.0.0/24"
@@ -62,7 +64,7 @@ The other notes are from The HackTheBox Website.
 		This is the most basic form of port scanning. It checks your device to see if there are any open ports. You can also check the ip of another device on you network When your done ip scanning. 
 	"nmap -iL iplist.txt":
 		Sometimes you might want to scan a whole list of the devices on your network.
-	"nmap -p 22 -iL iplist"
+	"nmap -p 22 -iL iplist":
 		This scans for the specific port tat you specified. In this case it is port 22.
 		It checks to see the devices that have the specified port open.
 		port 22 = ssh
@@ -76,9 +78,13 @@ The other notes are from The HackTheBox Website.
 	"sudo nmap -O -iL iplist"
 		This is to check the operating systems of the devices discovered.
 		Some times a device may return with the too may finger prints response. That means that the device successfully deceived nm
-	"sudo nmap -sS -iL iplist"
+	"sudo nmap -sS -iL iplist":
 		This will scan the network and return with the devices connected and their ports and MAC Address.
 		It is good and useful for a general scan. Like a summary of all the devices on the network and their ports
+	"sudo nmap -sL 10.0.0.0/24":
+			This will "**SAY** the **List**" of ip addresses that it will scan in the subnet, it will not scan the list, only return the list of what it will scan"
+			It will also attempt to get the name of each device, which will take time, you can avoid that by adding "**-n**" to the command
+		
 		
 
 **Detection Evasion:
@@ -112,3 +118,6 @@ Below are some techniques used to evade detection**
 	or you can decide to use [[METASPLOIT]] to find the vulnerabilities available for that device **
 
 There are other [[NMAP SCAN TYPES]] 
+
+
+![[Pasted image 20250326155620.png]]

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b86508197445ccbd",
+        "id": "6f21e337e06d87a2",
         "type": "tabs",
         "children": [
           {
-            "id": "4423a2aad068a94d",
+            "id": "c2469497fae07f9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP COMMAND.png"
+              },
+              "icon": "lucide-image",
+              "title": "NMAP COMMAND"
             }
           }
         ]
@@ -38,8 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +57,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Networking Refresher"
             }
           },
           {
@@ -105,7 +114,9 @@
                 "file": "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Networking Refresher"
             }
           },
           {
@@ -115,8 +126,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md"
-              }
+                "file": "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Networking Refresher"
             }
           }
         ]
@@ -146,8 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4423a2aad068a94d",
+  "active": "67194a42af3809c3",
   "lastOpenFiles": [
+    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP COMMAND.png",
+    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP.md",
+    "Pasted image 20250326155620.png",
+    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/SPEED CONTROL.md",
+    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/Categories Of Nmap Scripts.md",
+    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/NMAP SCAN TYPES.md",
+    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/Scanning Options.md",
+    "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Network Services.md",
+    "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Subnetting Simplified ( I think).md",
+    "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md",
+    "Obsidian Vault of notes/Cyber Security/Noteable.md",
+    "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/TCP - IP.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/NAT.md"
   ]
 }
