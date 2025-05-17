@@ -11,12 +11,26 @@
             "id": "c2469497fae07f9d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking Refresher"
+            }
+          },
+          {
+            "id": "8dbdbd76dcdf53be",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP COMMAND.png"
+                "file": "Obsidian Vault of notes/Cyber Security/images/IPV4 vs IPV6.png"
               },
               "icon": "lucide-image",
-              "title": "NMAP COMMAND"
+              "title": "IPV4 vs IPV6"
             }
           }
         ]
@@ -76,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2b002a80c5e29c26",
@@ -166,18 +180,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67194a42af3809c3",
+  "active": "c2469497fae07f9d",
   "lastOpenFiles": [
-    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP COMMAND.png",
+    "IP Addresses.md",
+    "Obsidian Vault of notes/Cyber Security/images/IPV4 vs IPV6.png",
+    "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md",
+    "Obsidian Vault of notes/Cyber Security/Exploitation/run the exploits or auxiliary.md",
+    "Obsidian Vault of notes/Cyber Security/Exploitation/POST EXPLOITATION.md",
+    "Obsidian Vault of notes/Cyber Security/Exploitation/METASPLOIT.md",
+    "Obsidian Vault of notes/Cyber Security/Linux/Viewing Editing and Writing Files In Linux.md",
+    "Obsidian Vault of notes/Cyber Security/Linux/Starting and Stopping Services.md",
+    "Obsidian Vault of notes/Cyber Security/Linux/Common Network Commands In Linux.md",
+    "Obsidian Vault of notes/Cyber Security/Linux/cut example.md",
+    "Obsidian Vault of notes/Cyber Security/Linux/Bash Scripting/Bash Scripting.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP.md",
-    "Pasted image 20250326155620.png",
+    "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP COMMAND.png",
     "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/SPEED CONTROL.md",
+    "Obsidian Vault of notes/Cyber Security/Network Scanning/NMAP/NMAP.md",
+    "Obsidian Vault of notes/Cyber Security/Network Scanning/NMAP/Categories Of Nmap Scripts.md",
+    "Obsidian Vault of notes/Cyber Security/Network Scanning/NMAP/SPEED CONTROL.md",
+    "Obsidian Vault of notes/Cyber Security/Network Scanning/NMAP/Scanning Options.md",
+    "Obsidian Vault of notes/Cyber Security/Network Scanning/NMAP/NMAP SCAN TYPES.md",
+    "Pasted image 20250326155620.png",
     "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/Categories Of Nmap Scripts.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/NMAP SCAN TYPES.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Network Scanning/NMAP/NMAP OPERATIONS/Scanning Options.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Network Services.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Subnetting Simplified ( I think).md",
-    "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/Networking Refresher.md",
     "Obsidian Vault of notes/Cyber Security/Noteable.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/TCP - IP.md",
     "Obsidian Vault of notes/Cyber Security/Networking/Basic Networking/NAT.md"
